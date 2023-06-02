@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonsu00-12&count_bg=%23A593E0&title_bg=%23566270&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/Yeonsu00-12)
 
 [![Yeonsu00-12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonsu00-12&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/Yeonsu00-12/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeonsu00-12)](https://github.com/Yeonsu00-12/github-readme-stats)
  
 <br>
 
