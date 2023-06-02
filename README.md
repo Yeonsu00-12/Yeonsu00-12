@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yeonsu's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!👋;Welcome+To+My+Github&height=45&size=32&color=EFFFE9)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!👋;Welcome+To+My+Github&height=45&size=32&color=2EC4B6)
 ---
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonsu00-12&count_bg=%23A593E0&title_bg=%23566270&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/Yeonsu00-12)
