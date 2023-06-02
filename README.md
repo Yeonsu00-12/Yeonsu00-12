@@ -58,12 +58,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledComponents&logoColor=white"/> 
     <br>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    <br>
+  </div>
+  <br>
   
-  ## 💻 Development Tool 💻
+  
+  ## 🖥 Development Tool 🖥
+  <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   
   ##ETC
+  <br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-</div><br>
+</div>
+  <br>
 </div>
