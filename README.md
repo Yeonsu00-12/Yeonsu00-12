@@ -16,7 +16,6 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yeonsu's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!👋;Welcome+To+My+Github&height=45&size=32&color=2EC4B6)
----
  
 <br>
 
