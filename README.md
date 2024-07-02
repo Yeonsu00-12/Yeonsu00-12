@@ -19,9 +19,9 @@ Here are some ideas to get you started:
  
 <br>
 
-## 💻 DEV's log 💻
+## 💻 Profile 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://excited-spy-4dd.notion.site/JAVA-SCRIPT-73499e0b0bc842b8a574e155094cacae">
+    <a href="[https://excited-spy-4dd.notion.site/JAVA-SCRIPT-73499e0b0bc842b8a574e155094cacae](https://excited-spy-4dd.notion.site/Elle-a49f889f25254f60b3240b19b7a1415c?pvs=4)">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
