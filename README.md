@@ -52,6 +52,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledComponents&logoColor=white"/> 
     <br>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    <p>next.js</p>
   </div>
   <br>
   
@@ -59,14 +60,11 @@ Here are some ideas to get you started:
   ## 🖥 Development Tool 🖥
   <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+    <p>cursor</p>
   
   ##ETC
   <br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
-  <br>
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeonsu00-12)](https://github.com/Yeonsu00-12/github-readme-stats)
   </div>
 </div>
